@@ -9,7 +9,6 @@
 
 1. Design PostgreSQL schema for shared expense application.
 2. Create Django models for memberships and transactions.
-3. Suggest anomaly detection strategies for messy CSV imports.
 
 ## AI Mistake 1
 
